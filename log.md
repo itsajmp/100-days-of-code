@@ -27,5 +27,19 @@
 **Thoughts** Today I began my be-a-better-person-in-the-new-year thing by deciding to dive in head first to coding.  Why?  Because I can. How long? 100 days.  Will it be fun? I committing 100 days of my life to it so it had better be!  I started freeCodeCamp today fro mthe very beginning.  It's a lot of material but feels doable; it probably isn't doable in 100 days but I'll get as far as I can.  We all need to change habits sometimes and my habit to change is sticking to it post-college and changing careers because yeah, things are better but not for everyone.
 
 **Link(s) to work**
+1. 
+
+
+<!--- //Commented Out Section for Markdown Reference//
+### Day 1: Tuesday, January 1, 2019
+#### Happy New Year!
+<!---
+**Today's Progress**: Literally square one.  
+<!---
+**Thoughts** Today I began my be-a-better-person-in-the-new-year thing by deciding to dive in head first to coding.  Why?  Because I can. How long? 100 days.  Will it be fun? I committing 100 days of my life to it so it had better be!  I started freeCodeCamp today fro mthe very beginning.  It's a lot of material but feels doable; it probably isn't doable in 100 days but I'll get as far as I can.  We all need to change habits sometimes and my habit to change is sticking to it post-college and changing careers because yeah, things are better but not for everyone.
+<!---
+**Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+--->
+
