@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: December 30, 2018
+### Day 0: Sunday, December 30, 2018
 ##### The Journey Begins, Sort Of
 
 **Today's Progress**: Trying to figure out GitHub and how all of this works.
@@ -9,21 +9,22 @@
 
 **Link to work:** You're literally looking at the work in front of you.  I figured out how to edit a document on GitHub!
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 00: Monday, December 31, 2018
+##### Baby Steps
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Set up Visual Studio Code
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Decided to use VSCode as my text editor in addition to freeCodeCamp as my primary learning resource. Watched YouTube videos on how other developers set up their environment.  I plan to use VSCode for additional local environment work in addition to FCC as I think it will help the material sink in better. Also, I didn't start today because of that ridiculous but very real desire to be a better person in the new year. Clearly I cannot start until tomorrow. Obviously.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: Still nothing to show! Aren't zero days the best? You get to do nothing but claim you made real progress. ¯\_(ツ)_/¯
 
 
-### Day 1: June 27, Monday
+### Day 1: Tuesday, January 1, 2019
+#### Happy New Year!
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Literally square one.  
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Today I began my be-a-better-person-in-the-new-year thing by deciding to dive in head first to coding.  Why?  Because I can. How long? 100 days.  Will it be fun? I committing 100 days of my life to it so it had better be!  I started freeCodeCamp today fro mthe very beginning.  It's a lot of material but feels doable; it probably isn't doable in 100 days but I'll get as far as I can.  We all need to change habits sometimes and my habit to change is sticking to it post-college and changing careers because yeah, things are better but not for everyone.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
