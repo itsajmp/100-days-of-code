@@ -24,10 +24,10 @@
 
 **Today's Progress**: Literally square one.  
 
-**Thoughts** Today I began my be-a-better-person-in-the-new-year thing by deciding to dive in head first to coding.  Why?  Because I can. How long? 100 days.  Will it be fun? I committing 100 days of my life to it so it had better be!  I started freeCodeCamp today fro mthe very beginning.  It's a lot of material but feels doable; it probably isn't doable in 100 days but I'll get as far as I can.  We all need to change habits sometimes and my habit to change is sticking to it post-college and changing careers because yeah, things are better but not for everyone.
+**Thoughts** Today I began my be-a-better-person-in-the-new-year thing by deciding to dive in head first to coding.  Why?  Because I can. How long? 100 days.  Will it be fun? I committing 100 days of my life to it so it had better be!  I started freeCodeCamp today fro mthe very beginning.  It's a lot of material but feels doable; it probably isn't doable in 100 days but I'll get as far as I can.  We all need to change habits sometimes and my habit to change is sticking to it post-college and changing careers because yeah, things are better but not for everyone.  **In all seriousness, I actually did all ofthe HTML & HTML5 sections on freeCodeCamp to get started. W00t!**
 
 **Link(s) to work**
-1. 
+1. [Introduction to Basic HTML and HTML5](https://www.freecodecamp.org/itsajmp)
 
 
 <!--- //Commented Out Section for Markdown Reference//
