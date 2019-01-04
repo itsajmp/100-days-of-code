@@ -30,6 +30,16 @@
 1. [Introduction to Basic HTML and HTML5](https://www.freecodecamp.org/itsajmp)
 
 
+### Day 2: Thursday, January 3, 2019
+#### Get Down With The Sickness
+
+**Today's Progress**: Basic CSS on freeCodeCamp
+
+**Thoughts** After being sick yesterday and sleeping for 11 hours I am back at it for my official day 2!  I finished all of the objectives in the Basic CSS section on FCC.  CSS is definintely fun and useful but I can already tell I might slightly hate how much work it is to get things just right.  Onward and upward!
+
+**Link(s) to work**
+1. [Basic CSS](https://www.freecodecamp.org/itsajmp)
+
 <!--- //Commented Out Section for Markdown Reference//
 ### Day 1: Tuesday, January 1, 2019
 #### Happy New Year!
